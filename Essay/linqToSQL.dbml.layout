@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="linqToSQL">
+  <DataContextMoniker Name="/linqToSQLDataContext" />
+  <nestedChildShapes>
+    <classShape Id="17168469-bf6d-4867-822f-9cc24405ca07" absoluteBounds="0.75, 1, 2, 1.9631982421875">
+      <DataClassMoniker Name="/linqToSQLDataContext/Certificate" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f50f33f8-733b-48c9-8c3a-4b9a80adc3fa" absoluteBounds="0.765, 1.46, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="91316424-6c8e-4c76-9002-6f53cf5cdc2c" absoluteBounds="4.625, 0.5, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/linqToSQLDataContext/Student" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8414adaa-bc5e-4bec-9c34-1a171a3097bf" absoluteBounds="4.64, 0.96, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="11b383c9-fef2-4d6e-8e6f-054f0179d6db" absoluteBounds="4.375, 2.25, 2, 2.5401025390625">
+      <DataClassMoniker Name="/linqToSQLDataContext/User" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7e6d4f5f-ae6b-400b-908b-f75029bb953d" absoluteBounds="4.3900000000000006, 2.71, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
