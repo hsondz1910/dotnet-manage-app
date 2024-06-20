@@ -1,2 +1,2 @@
-## Xem video demo sản phẩm tại:
-### Youtube: https://www.youtube.com/watch?v=SujABA7goZQ
+## Watch the product demo video here:
+### Youtube: https://s.pro.vn/NuQb
